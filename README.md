@@ -1,10 +1,6 @@
 # Artificial-Intelligence-assignment
 AI assignment second sem assignment 1
 
-Intelligence:
-- 
-
-
 Artificial Intelligence (AI):
         - Branch of Science which deals with helping machines finding solutions to complex problems in a more human-like fashion.
         -It involves borrowing characteristics from human intelligence, and applying them as algorithms in a computer friendly way.
